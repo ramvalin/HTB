@@ -1,0 +1,10 @@
+{
+  "status": "ok",
+  "type": "export",
+  "records": [
+    {
+      "id": 1,
+      "name": "SSRF validation test"
+    }
+  ]
+}
